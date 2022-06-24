@@ -1,4 +1,4 @@
-package net.mohamedaymenebahous.util;
+package dev.mohamedaymenebahous.util;
 
 import java.io.*;
 
